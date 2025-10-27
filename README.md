@@ -2,7 +2,7 @@
 Full screen start menu in Windows 11 based on LegacyFluent theme for Windhawk Start Menu Styler    
 
 Knwon issues:
-- No scaling on resolution higher than FHD
+- No auto scaling, just separate files for FHD and 4K
 - No scrolling when more tiles than 55 
 - Folders fixed ratio for 8 tiles 
 
